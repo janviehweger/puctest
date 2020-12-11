@@ -54,7 +54,8 @@ Answer to foo bar dilemma.
 2. This is the second screen shot
 
 == Changelog ==
-
+= 5.0 =
+= 4.0 =
 = 3.0 =
 * bla bla *
 = 2.0 =
