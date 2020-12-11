@@ -55,6 +55,10 @@ Answer to foo bar dilemma.
 
 == Changelog ==
 
+= 3.0 =
+* bla bla *
+= 2.0 =
+* somesthing changed
 = 1.0 =
 * A change since the previous version.
 * Another change.
