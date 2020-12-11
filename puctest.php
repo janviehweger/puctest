@@ -2,7 +2,7 @@
 ** 
 * Plugin Name:       puctest
 * Description:       testing puc.
-* Version:           1.0.0
+* Version:           2.0.0
 
 require 'plugin-update-checker/plugin-update-checker.php';
 $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
