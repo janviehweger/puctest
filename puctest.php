@@ -1,8 +1,7 @@
 <?php
 ** 
 * Plugin Name:       puctest
-* Plugin URI:        https://example.com/plugins/the-basics/
-* Description:       Handle the basics with this plugin.
+* Description:       testing puc.
 * Version:           1.0.0
 
 require 'plugin-update-checker/plugin-update-checker.php';
